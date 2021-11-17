@@ -1,6 +1,6 @@
-# CV
+# Amanda Vuong (her/she) - CV
 
-[Projects](https://github.com/mandyvuong/CV#Projects) | [Work Experience](https://github.com/mandyvuong/CV#Work-Experience) | [Education](https://github.com/mandyvuong/CV#Education) | [Contact](https://github.com/mandyvuong/CV#Contact)
+[Projects](https://github.com/mandyvuong/CV#Projects) | [Skills](https://github.com/mandyvuong/CV#Skills) | [Work Experience](https://github.com/mandyvuong/CV#Work-Experience) | [Education](https://github.com/mandyvuong/CV#Education) | [Contact](https://github.com/mandyvuong/CV#Contact)
 
 - Graduated from Makers Academy 16 weeks coding bootcamp in November 2021
 - Currently, have over six years experience in grants management and looking to reroute to my STEM background by switching careers into software development
@@ -11,19 +11,18 @@
 | --------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
 | **[Recipedia](https://github.com/mandyvuong/Recipedia)**              | Help food lovers search for recipes, add recipes to their favourites list and with the inspiration of browsing recipes they can create their own recipes. | React, Jest, Firebase - Authentication, Cloud Firestore, Storage, Hosting (i.e. deploy), HTML, CSS |
 | **[Acebook](https://github.com/mandyvuong/acebook-all-css-no-style)** | A clone of facebook, including log-in functionality, posts, comments and likes. Deployed using Heroku.                                                    | Ruby, Rails, RSpec, HTML, CSS                                                                      |
-| **[Post it](https://github.com/mandyvuong/notes_app)**                  | Frontend, single page app for note taking                                                                                                                                 | Javascript, HTML, CSS, RESTful API                                                          |
+| **[Post it](https://github.com/mandyvuong/notes_app)**                | Frontend, single page app for note taking                                                                                                                 | Javascript, HTML, CSS, RESTful API                                                                 |
 | **[BnB](https://github.com/mandyvuong/makers-bnb)**                   | A clone of Air B'n'B.                                                                                                                                     | Ruby, RSpec, HTML, CSS, PostgresSQL, Sinatra, Capybara                                             |
-
 
 ## Skills
 
-| Type   | Technology                                     |
-| ---------- | ---------------------------------------------- |
-| Frameworks/Libaries | React, Ruby on Rails, Sinatra         |
-| Databases  | PostgreSQL, Firebase                           |
-| Tools      | Git, Unix commands   |
-| Hosting    | Heroku, Github, Firebase                           |
-| Test Driven Development    | Capybara, RSpec, Jasmine, Self-built framework |
+| Type                    | Technology                                     |
+| ----------------------- | ---------------------------------------------- |
+| Frameworks/Libaries     | React, Ruby on Rails, Sinatra                  |
+| Databases               | PostgreSQL, Firebase                           |
+| Tools                   | Git, Unix commands                             |
+| Hosting                 | Heroku, Github, Firebase                       |
+| Test Driven Development | Capybara, RSpec, Jasmine, Self-built framework |
 
 ## Work Experience
 
@@ -44,38 +43,19 @@ _Researcher_
 
 ## Education
 
-#### Makers Academy, Remote learning (Aug ‘21 – Nov ‘21)
-
-- Mentoring two students from a later cohort
-- Ruby, Ruby on Rails, HTML, CSS, PostgresSQL, JavaScript, React, Sinatra, Jest, Jasmine, React Testing Library, RSpec and Capybara
-- Pair programming
-- Agile principles
-- Object Orientated Programming principles
-
-#### Code First Girls, Remote learning (Jun ‘21 – Jul ‘21)
-
-NatWest Career Switcher - Introduction to Python Programming
-
-- Fundamentals of Python and pair programming on a mini project
-
-#### University of Surrey (Jul ‘13 – Jun ‘17)
-
-- PhD Computational Chemistry
-
-#### University of Warwick (Oct ‘10 – Sep ‘11)
-
-- MSc Analytical Science
-
-#### University College London (Sep ‘04 – Jun ‘07)
-
-- BSc (Honours) Chemistry with Mathematics
+- Makers Academy, Remote learning (Aug ‘21 – Nov ‘21)
+- Code First Girls, Remote learning (Jun ‘21 – Jul ‘21)
+- PhD Computational Chemistry, University of Surrey (Jul ‘13 – Jun ‘17)
+- MSc Analytical Science, University of Warwick (Oct ‘10 – Sep ‘11)
+- BSc (Hons) Chemistry with Mathematics, University College London (Sep ‘04 – Jun ‘07)
 
 ## Hobbies
 
 - Member of Code First Girls and Codebar
 - Keen baker with my two children
+- Volunteering to be a mentor to two mentees who are in a later cohort at Makers Academy
 
 ## Contact
 
-[LinkedIn](www.linkedin.com/in/amanda-vuong)
-[Portfolio](https://mandyvuong.github.io/portfolio/)
+- [LinkedIn](www.linkedin.com/in/amanda-vuong)
+- [Portfolio](https://mandyvuong.github.io/portfolio/)
