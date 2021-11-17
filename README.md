@@ -1,4 +1,4 @@
-# Amanda Vuong (her/she) - CV
+# Amanda Vuong 
 
 [Projects](https://github.com/mandyvuong/CV#Projects) | [Skills](https://github.com/mandyvuong/CV#Skills) | [Work Experience](https://github.com/mandyvuong/CV#Work-Experience) | [Education](https://github.com/mandyvuong/CV#Education) | [Contact](https://github.com/mandyvuong/CV#Contact)
 
