@@ -24,19 +24,19 @@
 | Hosting                 | Heroku, Github, Firebase                       |
 | Test Driven Development | Capybara, RSpec, Jasmine, Self-built framework |
 
-Quick independent learner
+**Quick independent learner**
 - Self-taught React and Firebase within two weeks of the Makers Academy final project, confidently implementing two APIs, Firebase database and storage 
 - At the Royal Society the research grants management system migrated onto Flexi-grant and I confidently taught myself on how to use the system, which led to a taking on the role of a Flexi-expert
 
-Communication
+**Communication**
 - Regular communication with applicants, award holders and other relevant stakeholders at the Royal Society
 - Communicated complex ideas effectively to a range of audiences at 7 international conferences during my PhD
 
-Team player
+**Team player**
 - During Makers Academy worked in a team of 3-6 on three group projects
 - At the Royal Society I’m part of a team of 35 members of staff ensuring the grants commissioning process is met to a high standard
 
-Organisation/ time management
+**Organisation/ time management**
 - Successfully combining Makers Academy course, volunteering to be a mentor to two mentees and family commitments of two under four year olds
 - Completed PhD thesis whilst working full-time at the Royal Society
 - Completed Makers Academy group projects using an agile process, including Miro boards
