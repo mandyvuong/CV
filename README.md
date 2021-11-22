@@ -74,5 +74,5 @@ _Researcher_
 
 ## Contact
 
-- [LinkedIn](www.linkedin.com/in/amanda-vuong)
+- [LinkedIn](linkedin.com/in/amanda-vuong)
 - [Portfolio](https://mandyvuong.github.io/portfolio/)
