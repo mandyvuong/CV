@@ -1,4 +1,4 @@
-# Amanda Vuong 
+# Amanda Vuong
 
 [Projects](https://github.com/mandyvuong/CV#Projects) | [Skills](https://github.com/mandyvuong/CV#Skills) | [Work Experience](https://github.com/mandyvuong/CV#Work-Experience) | [Education](https://github.com/mandyvuong/CV#Education) | [Contact](https://github.com/mandyvuong/CV#Contact)
 
@@ -12,7 +12,6 @@
 | **[Recipedia](https://github.com/mandyvuong/Recipedia)**              | Help food lovers search for recipes, add recipes to their favourites list and with the inspiration of browsing recipes they can create their own recipes. | React, Jest, Firebase - Authentication, Cloud Firestore, Storage, Hosting (i.e. deploy), HTML, CSS |
 | **[Acebook](https://github.com/mandyvuong/acebook-all-css-no-style)** | A clone of facebook, including log-in functionality, posts, comments and likes. Deployed using Heroku.                                                    | Ruby, Rails, RSpec, HTML, CSS                                                                      |
 | **[Post it](https://github.com/mandyvuong/notes_app)**                | Frontend, single page app for note taking                                                                                                                 | Javascript, HTML, CSS, RESTful API                                                                 |
-| **[BnB](https://github.com/mandyvuong/makers-bnb)**                   | A clone of Air B'n'B.                                                                                                                                     | Ruby, RSpec, HTML, CSS, PostgresSQL, Sinatra, Capybara                                             |
 
 ## Skills
 
@@ -25,18 +24,22 @@
 | Test Driven Development | Capybara, RSpec, Jasmine, Self-built framework |
 
 **Quick independent learner**
-- Self-taught React and Firebase within two weeks of the Makers Academy final project, confidently implementing two APIs, Firebase database and storage 
+
+- Self-taught React and Firebase within two weeks of the Makers Academy final project, confidently implementing two APIs, Firebase database and storage
 - At the Royal Society the research grants management system migrated onto Flexi-grant and I confidently taught myself on how to use the system, which led to a taking on the role of a Flexi-expert
 
 **Communication**
+
 - Regular communication with applicants, award holders and other relevant stakeholders at the Royal Society
 - Communicated complex ideas effectively to a range of audiences at 7 international conferences during my PhD
 
 **Team player**
+
 - During Makers Academy worked in a team of 3-6 on three group projects
 - At the Royal Society I’m part of a team of 35 members of staff ensuring the grants commissioning process is met to a high standard
 
 **Organisation/ time management**
+
 - Successfully combining Makers Academy course, volunteering to be a mentor to two mentees and family commitments of two under four year olds
 - Completed PhD thesis whilst working full-time at the Royal Society
 - Completed Makers Academy group projects using an agile process, including Miro boards
