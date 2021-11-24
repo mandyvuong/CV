@@ -61,10 +61,50 @@ _Researcher_
 - Communicated complex ideas effectively to a range of audiences at 7 conferences
 - Coordinated with academics to supervise undergraduates lab experiments and teaching undergraduates computational courses (Visual Basic .NET, Microsoft Excel and image manipulation)
 
+**National Institute for Health Research CCF**
+
+_Programme Manager (Apr ’13 – Jun ’13) and Assistant Programme Manager (May ‘12 – Mar ’13)_
+
+- Liaised with NHS bodies to manage 142 Research for Patient Benefit Programme (RfPB) projects with maximum £250K budget from the Department of Health R&D for up to 36 months per project in the London, East Midlands and West Midlands regions
+- Promoted within 12 months to manage 45 Programme Grants for Applied Research (PGfAR) and Programme Development Grants (PDG) projects with maximum £2m budget from the Department of Health R&D for up to 5 years per project
+- Managed funded projects to ensure research outputs benefit NHS patients and objectives achieved within timescale and budget. This entailed budget scrutiny, review publications, negotiate variation to contracts, review progress reports to resolve issues with NHS bodies
+- Reviewed intellectual property by liaising with NHS bodies to provide legal advice and support to develop a commercialisation and exploitation plan to benefit patients
+
+**Verona Pharma PLC**
+
+_Clinical Trial Monitor (Oct ‘11 – Apr ‘12 and Mar ‘09 – Sep ‘10)_
+
+- Monitored and audited phase I/ IIa of a clinical trial in respiratory therapy to ensure it met EU regulatory compliance, ICH-GCP and SOPs
+- Built non-clinical and clinical study data from drug development projects using record management, an archive system and the e-library
+- Research into the discovery and development of new therapeutic drugs for the treatment of allergic rhinitis (hay fever) and other chronic respiratory diseases
+
+**Pepper Corporation**
+_Researcher (Sep ‘08 – ‘Feb 09)_
+
+- Worked with marketing consultants to support clients in the Financial Services industry
+- Presented research and comparison analysis on loyalty programmes and prepaid cards
+- Increased profit margins by managing portfolios: financial analysis of actual and forecasts, provided invoices to clients, issued purchase orders to consultants using Adnet
+
+**Verona Pharma PLC**
+_Associate Administrator (Sep ‘07 – Aug ‘08)_
+
+- Represented the company at the yearly Master Investor show
+- Responsible for the purchase ledger, bank reconciliations and processing expense claims on the in-house system. Process VAT returns and cheque payments to vendors
+- Carried out staff training and creating SOPs for invoicing, contracts and archiving
+
 ## Education
 
 - Makers Academy, Remote learning (Aug ‘21 – Nov ‘21)
+
+  - Mentoring two students from a later cohort
+  - Built applications in variety of languages, including Ruby, Rails, JavaScript, SQL (PostgreSQL), React
+  - Extensively practiced TDD principles using RSpec, Jasmine, Jest, Capybara and React testing library
+  - Learnt and applied architectural patterns including MVC and DDD
+  - Pair programmed extensively during design and development of applications
+  - Development driven by Agile project management principles using Github Projects and Miro
+
 - Code First Girls, Remote learning (Jun ‘21 – Jul ‘21)
+  - Fundamentals of Python and pair programming on a mini project
 - PhD Computational Chemistry, University of Surrey (Jul ‘13 – Jun ‘17)
 - MSc Analytical Science, University of Warwick (Oct ‘10 – Sep ‘11)
 - BSc (Hons) Chemistry with Mathematics, University College London (Sep ‘04 – Jun ‘07)
