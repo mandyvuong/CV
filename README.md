@@ -72,7 +72,7 @@ _Programme Manager (Apr ’13 – Jun ’13) and Assistant Programme Manager (Ma
 
 **Verona Pharma PLC**
 
-_Clinical Trial Monitor (Oct ‘11 – Apr ‘12 and Mar ‘09 – Sep ‘10)_
+_Clinical Trial Monitor (Oct ‘11 – Apr ‘12, Mar ‘09 – Sep ‘10 and Sep ‘07 – Aug ‘08)_
 
 - Monitored and audited phase I/ IIa of a clinical trial in respiratory therapy to ensure it met EU regulatory compliance, ICH-GCP and SOPs
 - Built non-clinical and clinical study data from drug development projects using record management, an archive system and the e-library
@@ -84,13 +84,6 @@ _Researcher (Sep ‘08 – ‘Feb 09)_
 - Worked with marketing consultants to support clients in the Financial Services industry
 - Presented research and comparison analysis on loyalty programmes and prepaid cards
 - Increased profit margins by managing portfolios: financial analysis of actual and forecasts, provided invoices to clients, issued purchase orders to consultants using Adnet
-
-**Verona Pharma PLC**
-_Associate Administrator (Sep ‘07 – Aug ‘08)_
-
-- Represented the company at the yearly Master Investor show
-- Responsible for the purchase ledger, bank reconciliations and processing expense claims on the in-house system. Process VAT returns and cheque payments to vendors
-- Carried out staff training and creating SOPs for invoicing, contracts and archiving
 
 ## Education
 
