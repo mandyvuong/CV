@@ -79,6 +79,7 @@ _Clinical Trial Monitor (Oct ‘11 – Apr ‘12, Mar ‘09 – Sep ‘10 and Se
 - Research into the discovery and development of new therapeutic drugs for the treatment of allergic rhinitis (hay fever) and other chronic respiratory diseases
 
 **Pepper Corporation**
+
 _Researcher (Sep ‘08 – ‘Feb 09)_
 
 - Worked with marketing consultants to support clients in the Financial Services industry
