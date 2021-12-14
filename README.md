@@ -19,7 +19,7 @@ Career changer turned software developer. Six years experience in grants managem
 
 | Type                    | Technology                                     |
 | ----------------------- | ---------------------------------------------- |
-| Frameworks/Libaries     | React, Ruby on Rails, Sinatra                  |
+| Frameworks/Libraries    | React, Ruby on Rails, Sinatra                  |
 | Databases               | PostgreSQL, Firebase                           |
 | Tools                   | Git, Unix commands                             |
 | Hosting                 | Heroku, Github, Firebase                       |
@@ -89,7 +89,7 @@ _Researcher (Sep ‘08 – ‘Feb 09)_
 
   - Mentoring two students from a later cohort
   - Built applications in variety of languages, including Ruby, Rails, JavaScript, SQL (PostgreSQL), React
-  - Extensively practiced TDD principles using RSpec, Jasmine, Jest, Capybara and React testing library
+  - Extensively practised TDD principles using RSpec, Jasmine, Jest, Capybara and React testing library
   - Learnt and applied architectural patterns including MVC and DDD
   - Pair programmed extensively during design and development of applications
   - Development driven by Agile project management principles using Github Projects and Miro
@@ -101,7 +101,7 @@ _Researcher (Sep ‘08 – ‘Feb 09)_
 
 ## Code Reviews
 
-Makers partners with reviwer, [CoGrammar](https://www.cogrammar.com/). The reviewer roleplays as a product owner with a set of non-technical requirements. I was observed for upto an hour on how to convert these requirements into a working, tested, well-written application.
+Makers partners with reviewer, [CoGrammar](https://www.cogrammar.com/). The reviewer roleplays as a product owner with a set of non-technical requirements. I was observed for upto an hour on how to convert these requirements into a working, tested, well-written application.
 
 <details>
   <summary>Click here to view</summary>
