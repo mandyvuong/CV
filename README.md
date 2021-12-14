@@ -99,7 +99,7 @@ _Researcher (Sep ‘08 – ‘Feb 09)_
 - MSc Analytical Science, University of Warwick (Oct ‘10 – Sep ‘11)
 - BSc (Hons) Chemistry with Mathematics, University College London (Sep ‘04 – Jun ‘07)
 
-## CODE REVIEWS
+## Code Reviews
 
 Makers partners with reviwer, [CoGrammar](https://www.cogrammar.com/). The reviewer roleplays as a product owner with a set of non-technical requirements. I was observed for upto an hour on how to convert these requirements into a working, tested, well-written application.
 
@@ -132,7 +132,6 @@ Makers partners with reviwer, [CoGrammar](https://www.cogrammar.com/). The revie
 > "This type of communication will definitely show an interviewer that you make well-considered decisions while developing code."
 
 </details>
-
 <br/>
 
 ## Hobbies
