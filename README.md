@@ -1,9 +1,11 @@
-# Amanda Vuong
+<div align='center'>
+<h1> Amanda Vuong </h1>
 
 [Projects](https://github.com/mandyvuong/CV#Projects) | [Skills](https://github.com/mandyvuong/CV#Skills) | [Work Experience](https://github.com/mandyvuong/CV#Work-Experience) | [Education](https://github.com/mandyvuong/CV#Education) | [Contact](https://github.com/mandyvuong/CV#Contact)
 
-- Graduated from Makers Academy 16 weeks coding bootcamp in November 2021
-- Currently, have over six years experience in grants management and looking to reroute to my STEM background by switching careers into software development
+</div>
+
+Career changer turned software developer. Six years experience in grants management and completed Makers Academy coding bootcamp in November 2021. Eager to reroute my STEM background to put my experience into practice in software development.
 
 ## Projects
 
@@ -25,29 +27,24 @@
 
 **Quick independent learner**
 
-- Self-taught React and Firebase within two weeks of the Makers Academy final project, confidently implementing two APIs, Firebase database and storage
-- At the Royal Society the research grants management system migrated onto Flexi-grant and I confidently taught myself on how to use the system, which led to a taking on the role of a Flexi-expert
+Self-taught React and Firebase within two weeks of the Makers Academy final project, confidently implementing two APIs, Firebase database and storage. At the Royal Society the research grants management system migrated onto Flexi-grant and I confidently taught myself how to use the system, which led to a taking on the role of a Flexi-expert.
 
 **Communication**
 
-- Regular communication with applicants, award holders and other relevant stakeholders at the Royal Society
-- Communicated complex ideas effectively to a range of audiences at 7 international conferences during my PhD
+Regular communication with applicants, award holders and other relevant stakeholders at the Royal Society. Communicated complex ideas effectively to a range of audiences at 7 international conferences during my PhD.
 
 **Team player**
 
-- During Makers Academy worked in a team of 3-6 on three group projects
-- At the Royal Society I’m part of a team of 35 members of staff ensuring the grants commissioning process is met to a high standard
+During Makers Academy worked in a team of 3-6 on three group projects. At the Royal Society I’m part of a team of 35 members of staff ensuring the grants commissioning process is met to a high standard.
 
 **Organisation/ time management**
 
-- Successfully combining Makers Academy course, volunteering to be a mentor to two mentees and family commitments of two under four year olds
-- Completed PhD thesis whilst working full-time at the Royal Society
-- Completed Makers Academy group projects using an agile process, including Miro boards
+Successfully completed the Makers Academy course using agile processes, whilst volunteering to be a mentor to two mentees and have family commitments of two under four year olds at the tail end of my maternity leave. I completed my PhD thesis whilst working full-time at the Royal Society.
 
 ## Work Experience
 
 **The Royal Society** (Dec ’16 – Present)  
-_International Grants Scheme Manager_
+_International Grants Manager_
 
 - Managed various grant funded programmes including Newton Fund and Global Challenge Research Fund to attract world-leading researchers to collaborate with UK academics, ensuring coordination and effectiveness in delivering the programmes
 - Managing the financial budget, data collection on diversity and analysis on programmes to ensure the Royal Society delivers programmes that are relevant and have maximum impact
@@ -88,7 +85,7 @@ _Researcher (Sep ‘08 – ‘Feb 09)_
 
 ## Education
 
-- Makers Academy, Remote learning (Aug ‘21 – Nov ‘21)
+- Software development bootcamp, Makers Academy (Aug ‘21 – Nov ‘21)
 
   - Mentoring two students from a later cohort
   - Built applications in variety of languages, including Ruby, Rails, JavaScript, SQL (PostgreSQL), React
@@ -97,11 +94,46 @@ _Researcher (Sep ‘08 – ‘Feb 09)_
   - Pair programmed extensively during design and development of applications
   - Development driven by Agile project management principles using Github Projects and Miro
 
-- Code First Girls, Remote learning (Jun ‘21 – Jul ‘21)
-  - Fundamentals of Python and pair programming on a mini project
+- Python course, Code First Girls (Jun ‘21 – Jul ‘21)
 - PhD Computational Chemistry, University of Surrey (Jul ‘13 – Jun ‘17)
 - MSc Analytical Science, University of Warwick (Oct ‘10 – Sep ‘11)
 - BSc (Hons) Chemistry with Mathematics, University College London (Sep ‘04 – Jun ‘07)
+
+## CODE REVIEWS
+
+Makers partners with reviwer, [CoGrammar](https://www.cogrammar.com/). The reviewer roleplays as a product owner with a set of non-technical requirements. I was observed for upto an hour on how to convert these requirements into a working, tested, well-written application.
+
+<details>
+  <summary>Click here to view</summary>
+ 
+  </br>
+  
+**Can model**
+> "The algorithm made logical sense and you were able to meet the requirements for this program quite well."
+
+**Can TDD**
+
+> "You have once again based your tests on behaviours in order to keep your code properly decoupled from the tests and this also meant that the tests were client-oriented with the acceptance criteria properly encoded in the algorithm."
+
+**Can write code that is easy to change**
+
+> "You had your test suite properly decoupled from your implementation by making sure the tests were based solely on acceptance criteria, and not reliant on the current implementation. This makes changes to the code much easier as they will not break your test suite."
+
+> "You have used sensible method and variable names that were derived from the client’s domain. This helped to make your code easy to understand which helps to make it easier to change as a result."
+
+**Can debug**
+
+> "You have quite a good debugging process and are reading the error messages clearly in order to get insight into how the code is behaving."
+
+**Justify the way I work:**
+
+> "You have a very clear way of communicating what you are doing and why you are doing it. When debugging, you kept me updated as to what you believed the problem was and what the solution would be before making changes."
+
+> "This type of communication will definitely show an interviewer that you make well-considered decisions while developing code."
+
+</details>
+
+<br/>
 
 ## Hobbies
 
