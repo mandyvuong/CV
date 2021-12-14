@@ -125,7 +125,7 @@ Makers partners with reviwer, [CoGrammar](https://www.cogrammar.com/). The revie
 
 > "You have quite a good debugging process and are reading the error messages clearly in order to get insight into how the code is behaving."
 
-**Justify the way I work:**
+**Justify the way I work**
 
 > "You have a very clear way of communicating what you are doing and why you are doing it. When debugging, you kept me updated as to what you believed the problem was and what the solution would be before making changes."
 
