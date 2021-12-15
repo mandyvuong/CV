@@ -88,6 +88,7 @@ _Researcher (Sep ‘08 – ‘Feb 09)_
 - Software development bootcamp, Makers Academy (Aug ‘21 – Nov ‘21)
 
   - Mentoring two students from a later cohort
+    > "Thanks Amanda, you’ve been my inspiration and such a fantastic mentor"
   - Built applications in variety of languages, including Ruby, Rails, JavaScript, SQL (PostgreSQL), React
   - Extensively practised TDD principles using RSpec, Jasmine, Jest, Capybara and React testing library
   - Learnt and applied architectural patterns including MVC and DDD
