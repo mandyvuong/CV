@@ -1,7 +1,7 @@
 <div align='center'>
 <h1> Amanda Vuong </h1>
 
-[Projects](https://github.com/mandyvuong/CV#Projects) | [Skills](https://github.com/mandyvuong/CV#Skills) | [Work Experience](https://github.com/mandyvuong/CV#Work-Experience) | [Education](https://github.com/mandyvuong/CV#Education) | [Contact](https://github.com/mandyvuong/CV#Contact)
+[Projects](https://github.com/mandyvuong/CV#Projects) | [Skills](https://github.com/mandyvuong/CV#Skills) | [Work Experience](https://github.com/mandyvuong/CV#Work-Experience) | [Education](https://github.com/mandyvuong/CV#Education) | [Code Reviews](https://github.com/mandyvuong/CV#Code-Reviews) | [Contact](https://github.com/mandyvuong/CV#Contact)
 
 </div>
 
