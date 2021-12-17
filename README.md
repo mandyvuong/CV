@@ -5,7 +5,7 @@
 
 </div>
 
-Career changer turned software developer. Six years experience in grants management and completed Makers Academy coding bootcamp in November 2021. Eager to reroute my STEM background to put my experience into practice in software development.
+Career changer turned software developer. Six years experience in grants management and completed Makers Academy coding bootcamp in November 2021. Eager to reroute back to my STEM background to put my experience into practice in software development.
 
 ## Projects
 
@@ -27,15 +27,15 @@ Career changer turned software developer. Six years experience in grants managem
 
 **Quick independent learner**
 
-Self-taught React and Firebase within two weeks of the Makers Academy final project, confidently implementing two APIs, Firebase database and storage. At the Royal Society the research grants management system migrated onto Flexi-grant and I confidently taught myself how to use the system, which led to a taking on the role of a Flexi-expert.
+Self-taught React and Firebase within two weeks for the Makers Academy final project, confidently implementing two APIs, Firebase database and storage. At the Royal Society the research grants management system migrated onto Flexi-grant and I confidently taught myself how to use the system, which led to a taking on the role of a Flexi-expert.
 
 **Communication**
 
-Regular communication with applicants, award holders and other relevant stakeholders at the Royal Society. Communicated complex ideas effectively to a range of audiences at 7 international conferences during my PhD.
+Regular communications with applicants, award holders and other relevant stakeholders at the Royal Society. Communicated complex ideas effectively to a range of audiences at seven international conferences during my PhD.
 
 **Team player**
 
-During Makers Academy worked in a team of 3-6 on three group projects. At the Royal Society I’m part of a team of 35 members of staff ensuring the grants commissioning process is met to a high standard.
+Worked in a team of 3-6 on three Makers Academy group projects. At the Royal Society I’m part of a team of 35 members of staff ensuring the grants commissioning process is met to a high standard.
 
 **Organisation/ time management**
 
@@ -90,7 +90,7 @@ _Researcher (Sep ‘08 – ‘Feb 09)_
   - Mentoring two students from a later cohort
     > "Thanks Amanda, you’ve been my inspiration and such a fantastic mentor"
   - Built applications in variety of languages, including Ruby, Rails, JavaScript, SQL (PostgreSQL), React
-  - Extensively practised TDD principles using RSpec, Jasmine, Jest, Capybara and React testing library
+  - Extensively practiced TDD principles using RSpec, Jasmine, Jest, Capybara and React testing library
   - Learnt and applied architectural patterns including MVC and DDD
   - Pair programmed extensively during design and development of applications
   - Development driven by Agile project management principles using Github Projects and Miro
@@ -105,7 +105,7 @@ _Researcher (Sep ‘08 – ‘Feb 09)_
 Makers partners with reviewer, [CoGrammar](https://www.cogrammar.com/). The reviewer roleplays as a product owner with a set of non-technical requirements. I was observed for upto an hour on how to convert these requirements into a working, tested, well-written application.
 
 <details>
-  <summary>Click here to view</summary>
+  <summary>Click here to view feedback</summary>
  
   </br>
   
