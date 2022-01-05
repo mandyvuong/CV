@@ -25,21 +25,13 @@ Career changer turned software developer. Six years experience in grants managem
 | Hosting                 | Heroku, Github, Firebase                       |
 | Test Driven Development | Capybara, RSpec, Jasmine, Self-built framework |
 
-**Quick independent learner**
+**Quick independent learner:** Self-taught React and Firebase within two weeks for the Makers Academy final project, confidently implementing two APIs, Firebase database and storage. At the Royal Society the research grants management system migrated onto Flexi-grant and I confidently taught myself how to use the system, which led to a taking on the role of a Flexi-expert.
 
-Self-taught React and Firebase within two weeks for the Makers Academy final project, confidently implementing two APIs, Firebase database and storage. At the Royal Society the research grants management system migrated onto Flexi-grant and I confidently taught myself how to use the system, which led to a taking on the role of a Flexi-expert.
+**Communication:** Regular communications with applicants, award holders and other relevant stakeholders at the Royal Society. Communicated complex ideas effectively to a range of audiences at seven international conferences during my PhD.
 
-**Communication**
+**Team player:** Worked in a team of 3-6 on three Makers Academy group projects. At the Royal Society I’m part of a team of 35 members of staff ensuring the grants commissioning process is met to a high standard.
 
-Regular communications with applicants, award holders and other relevant stakeholders at the Royal Society. Communicated complex ideas effectively to a range of audiences at seven international conferences during my PhD.
-
-**Team player**
-
-Worked in a team of 3-6 on three Makers Academy group projects. At the Royal Society I’m part of a team of 35 members of staff ensuring the grants commissioning process is met to a high standard.
-
-**Organisation/ time management**
-
-Successfully completed the Makers Academy course using agile processes, whilst volunteering to be a mentor to two mentees and have family commitments of two under four year olds at the tail end of my maternity leave. I completed my PhD thesis whilst working full-time at the Royal Society.
+**Organisation/ time management:** Successfully completed the Makers Academy course using agile processes, whilst volunteering to be a mentor to two mentees and have family commitments of two under four year olds at the tail end of my maternity leave. I completed my PhD thesis whilst working full-time at the Royal Society.
 
 ## Work Experience
 
@@ -137,7 +129,7 @@ Makers partners with reviewer, [CoGrammar](https://www.cogrammar.com/). The revi
 
 ## Hobbies
 
-- Member of Code First Girls and Codebar
+- Member of Code First Girls, Codebar and Motherboard meetup
 - Keen baker with my two children
 - Volunteering to be a mentor to two mentees who are in a later cohort at Makers Academy
 
