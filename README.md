@@ -34,7 +34,7 @@ Career changer turned software developer. Six years experience in grants managem
 **Organisation/ time management:** Successfully completed the Makers Academy course using agile processes, whilst volunteering to be a mentor to two mentees and have family commitments of two under four year olds at the tail end of my maternity leave. I completed my PhD thesis whilst working full-time at the Royal Society.
 
 ## Work Experience
-**Springer Nature Digital** (Mar ’22 – Present)
+**Springer Nature Digital** (Mar ’22 – Present)  
 _Developer_
 
 **The Royal Society** (Dec ’16 – Mar ’22)  
